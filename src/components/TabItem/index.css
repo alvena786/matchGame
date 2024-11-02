@@ -1,0 +1,20 @@
+.tab {
+  color: white;
+  background-color: transparent;
+  border-width: 0px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: bold;
+}
+.li-tabItems {
+  list-style-type: none;
+}
+.tab-itemm {
+  color: #fec653;
+  background-color: transparent;
+  border-width: 0px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: underline;
+}
